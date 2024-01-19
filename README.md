@@ -1,0 +1,1 @@
+# generadorDeContrase-as-Terminal
